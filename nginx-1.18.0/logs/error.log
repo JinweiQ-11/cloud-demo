@@ -1,0 +1,10 @@
+2022/05/09 22:31:58 [warn] 20776#23336: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/09 22:31:59 [warn] 23968#24232: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/09 22:40:14 [error] 23968#24020: *50 CreateFile() "D:\Spring\SpringStudy\cloud-demo\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/05/21 14:42:28 [warn] 8152#26700: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/21 14:42:29 [warn] 2992#10564: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/21 14:44:17 [warn] 22684#26140: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/21 14:44:17 [warn] 31632#42840: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/21 14:45:21 [error] 2992#7816: *1 CreateFile() "D:\Spring\SpringStudy\cloud-demo\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/05/21 16:12:51 [error] 2992#7816: *224 CreateFile() "D:\Spring\SpringStudy\cloud-demo\nginx-1.18.0/html/80" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /80 HTTP/1.1", host: "127.0.0.1"
+2022/05/22 09:14:20 [error] 2992#7816: *262 CreateFile() "D:\Spring\SpringStudy\cloud-demo\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.google.com", referrer: "http://www.google.com/"
